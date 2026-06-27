@@ -1,5 +1,3 @@
-# Autonomous-Driving-AI-SW-Design
-성균관대학교 [자율주행 AI SW 설계] 비교과 프로그램
 
 ## 초기 환경설정
 ```
